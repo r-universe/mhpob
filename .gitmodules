@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mhpob/mhpob.r-universe.dev
 	branch = HEAD
+[submodule "matos"]
+	path = matos
+	url = https://github.com/mhpob/matos
+[submodule "otndo"]
+	path = otndo
+	url = https://github.com/mhpob/otndo
