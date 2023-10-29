@@ -1,0 +1,10 @@
+{
+  "id": 43446690,
+  "created_at": "2023-10-29T22:51:11.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["TelemetryR", "matos", "otndo"]
+}
