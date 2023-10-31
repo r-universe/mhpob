@@ -14,3 +14,7 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
+[submodule "yaps"]
+	path = yaps
+	url = https://github.com/baktoft/yaps
+	registered = false
