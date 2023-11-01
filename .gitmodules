@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/mhpob/mhpob.r-universe.dev
 	branch = HEAD
+[submodule "glatos"]
+	path = glatos
+	url = https://github.com/ocean-tracking-network/glatos
 [submodule "matos"]
 	path = matos
 	url = https://github.com/mhpob/matos
+[submodule "miscYAPS"]
+	path = miscYAPS
+	url = https://github.com/robertlennox/miscYAPS
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
