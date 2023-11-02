@@ -5,6 +5,10 @@
 [submodule "glatos"]
 	path = glatos
 	url = https://github.com/ocean-tracking-network/glatos
+[submodule "glatos_dev"]
+	path = glatos_dev
+	url = https://github.com/ocean-tracking-network/glatos
+	branch = dev
 [submodule "matos"]
 	path = matos
 	url = https://github.com/mhpob/matos
