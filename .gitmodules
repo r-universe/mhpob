@@ -11,6 +11,9 @@
 [submodule "miscYAPS"]
 	path = miscYAPS
 	url = https://github.com/robertlennox/miscYAPS
+[submodule "ocean-tracking-network/YAPS"]
+	path = ocean-tracking-network/YAPS
+	url = https://github.com/ocean-tracking-network/yaps
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
