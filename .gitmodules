@@ -4,14 +4,15 @@
 	branch = HEAD
 [submodule "glatos"]
 	path = glatos
-	url = https://github.com/ocean-tracking-network/glatos
-	branch = dev
+	url = https://github.com/mhpob/glatos
+	branch = dev-patch-dependency
 [submodule "matos"]
 	path = matos
 	url = https://github.com/mhpob/matos
 [submodule "miscYAPS"]
 	path = miscYAPS
-	url = https://github.com/robertlennox/miscYAPS
+	url = https://github.com/mhpob/miscyaps
+	branch = patch-1
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
@@ -25,4 +26,4 @@
 	registered = false
 [submodule "yaps"]
 	path = yaps
-	url = https://github.com/ocean-tracking-network/yaps
+	url = https://github.com/baktoft/yaps
