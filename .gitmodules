@@ -16,6 +16,9 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
+[submodule "simfish"]
+	path = simfish
+	url = https://github.com/ianjonsen/simfish
 [submodule "splusTimeDate"]
 	path = splusTimeDate
 	url = https://github.com/spkaluzny/splusTimeDate
