@@ -16,6 +16,9 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
+[submodule "rvdat"]
+	path = rvdat
+	url = https://github.com/mhpob/rvdat
 [submodule "simfish"]
 	path = simfish
 	url = https://github.com/ianjonsen/simfish
