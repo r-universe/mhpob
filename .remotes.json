@@ -1,9 +1,22 @@
 [
   {
+    "package": "crawl",
+    "url": "https://github.com/NMML/crawl",
+    "via": ["simfish", "pathroutr"],
+    "branch": "devel",
+    "from": "simfish"
+  },
+  {
     "package": "otndo",
     "url": "https://github.com/mhpob/otndo",
     "via": ["matos"],
     "from": "matos"
+  },
+  {
+    "package": "pathroutr",
+    "url": "https://github.com/jmlondon/pathroutr",
+    "via": ["simfish"],
+    "from": "simfish"
   },
   {
     "package": "splusTimeDate",

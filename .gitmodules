@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/mhpob/mhpob.r-universe.dev
 	branch = HEAD
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/NMML/crawl
+	branch = devel
+	registered = false
 [submodule "glatos"]
 	path = glatos
 	url = https://github.com/mhpob/glatos
@@ -16,6 +21,10 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
+[submodule "pathroutr"]
+	path = pathroutr
+	url = https://github.com/jmlondon/pathroutr
+	registered = false
 [submodule "rvdat"]
 	path = rvdat
 	url = https://github.com/mhpob/rvdat
