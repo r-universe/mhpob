@@ -21,7 +21,7 @@
 	url = https://github.com/mhpob/rvdat
 [submodule "simfish"]
 	path = simfish
-	url = https://github.com/ianjonsen/simfish
+	url = https://github.com/mhpob/simfish
 [submodule "splusTimeDate"]
 	path = splusTimeDate
 	url = https://github.com/spkaluzny/splusTimeDate
