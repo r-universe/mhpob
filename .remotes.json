@@ -19,6 +19,12 @@
     "from": "simfish"
   },
   {
+    "package": "rvdat",
+    "url": "https://github.com/mhpob/rvdat",
+    "via": ["matos"],
+    "from": "matos"
+  },
+  {
     "package": "splusTimeDate",
     "url": "https://github.com/spkaluzny/splusTimeDate",
     "via": ["miscYAPS", "yaps"],
