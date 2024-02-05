@@ -38,6 +38,9 @@
 	path = splusTimeSeries
 	url = https://github.com/spkaluzny/splusTimeSeries
 	registered = false
+[submodule "telemetar"]
+	path = telemetar
+	url = https://github.com/mhpob/telemetar
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/baktoft/yaps
