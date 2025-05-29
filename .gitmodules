@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/mhpob/mhpob.r-universe.dev
 	branch = HEAD
+[submodule "TelemetrySpace"]
+	path = TelemetrySpace
+	url = https://github.com/mhpob/TelemetrySpace
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
