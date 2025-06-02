@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "TelemetrySpace"]
 	path = TelemetrySpace
-	url = https://github.com/mhpob/TelemetrySpace
+	url = https://github.com/meganwinton/TelemetrySpace
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
