@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "TelemetrySpace"]
 	path = TelemetrySpace
-	url = https://github.com/meganwinton/TelemetrySpace
+	url = https://github.com/trackyverse/TelemetrySpace
 [submodule "glatos"]
 	path = glatos
 	url = https://github.com/ocean-tracking-network/glatos
@@ -15,6 +15,9 @@
 [submodule "miscYAPS"]
 	path = miscYAPS
 	url = https://github.com/robertlennox/miscYAPS
+[submodule "otndata"]
+	path = otndata
+	url = https://github.com/trackyverse/otndata
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
